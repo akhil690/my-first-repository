@@ -1,3 +1,4 @@
 we use git clone and enter repository url fron git hub
-we can connect our local repo with remote by using [git remote add origin maaster]
+we can connect our local repo with remote by using [git remote add origin with url]
 we can push the changes from our repo to remote by usng [git push origin master]
+
