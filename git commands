@@ -1,1 +1,4 @@
 we have git init, git add, git commit-m "filename" ,n git branching, merging, rebasing.
+ls to used to list the files 
+cd ../ to move into the directory whatever we created
+git log to list the author commit id and time
